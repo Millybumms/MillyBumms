@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<body>
+  <p>
+  My name is Adarsh and I am learning to code. Right now, Im only familiar with some HTML and a bit of python. 
+</p>
+</body>
