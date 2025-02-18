@@ -12,6 +12,7 @@
   </ul>
   <header><strong>My Interests</strong></header>
   <p>I like to listen to music, particulary J.Cole. I like watching youtube and have a interest in automotives</p>
-  <header><strong>I would like to get good grades, have a job, and have fun before im 30 because after 30 it gets a bit boring</strong></header>
+  <header><strong>My future</strong></header>
+  <p>I would like to get good grades, have a job, and have fun before im 30 because after 30 it gets a bit boring</p>
 </body>
 
